@@ -14,11 +14,11 @@
 
 ## Description
 
-This Full stack Web application id designed to let users eneter book titles and authors into a MySQL database using a Bootstrap styles front end.
+This Full stack Web application is designed to let users enter book titles and authors into a MySQL database by using an HTML front end styled with Bootstrap CSS. The back end is built using MySQL and is accessed from the front end using JavaScript end the fetch API to access the database using Express.js.
 
 ## Usage
 
-In the inputes for title and Author you can enter a book's information which then gets added to the database and displayed on the web page,
+The inputs for title and author are used to enter a book's information which then gets saved to the database and displayed on the web page,
 
 ## Contributors
 
