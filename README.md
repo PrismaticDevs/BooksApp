@@ -24,7 +24,7 @@ The inputs for title and author are used to enter a book's information which the
 ## Technologies
 
 - Node.js and MySQL backend
-- Express.js amd Sequelize back end API
+- Express.js and Sequelize back end API
 - Fetch API and JavaScript
 - HTML and Bootstrap CSS
 
