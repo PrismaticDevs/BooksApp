@@ -4,3 +4,8 @@ body {
     background-color: rgb(99, 152, 227);
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+
+#title,
+#author {
+    width: 12em;
+}
