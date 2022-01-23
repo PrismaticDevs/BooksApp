@@ -5,6 +5,7 @@
 - [License](#license)
 - [Description](#description)
 - [Usage](#instructions)
+- [Technologies](#technologies)
 - [Contributors](#contributors)
 - [Questions](#questions)
 
@@ -18,7 +19,14 @@ This Full stack Web application is designed to let users enter book titles and a
 
 ## Usage
 
-The inputs for title and author are used to enter a book's information which then gets saved to the database and displayed on the web page,
+The inputs for title and author are used to enter a book's information which then gets saved to the database and displayed on the web page.
+
+## Technologies
+
+- Node.js and MySQL backend
+- Express.js amd Sequelize back end API
+- Fetch API and JavaScript
+- HTML and Bootstrap CSS
 
 ## Contributors
 
