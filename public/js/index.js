@@ -20,7 +20,6 @@ document.getElementById('add').addEventListener('click', postBook);
 async function postBook() {
     let title = document.getElementById('title').value;
     let author = document.getElementById('author').value;
-    console.log('POST book', title, author);
     await fetch("/api/books", {
         method: "post",
         headers: {
